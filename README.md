@@ -38,7 +38,11 @@ Ce TP a pour objectif d’apprendre à consommer une API dans une application Re
 ---
 
 ## 🖥️ Demo
-https://github.com/user-attachments/assets/21c53e36-483f-45e0-886d-bc4bfc1d81fe
+
+
+https://github.com/user-attachments/assets/c3ce84c1-1dc1-4ee8-ace5-dd30be8a3e76
+
+
 ---
 
 ## 🧠 Concepts clés
